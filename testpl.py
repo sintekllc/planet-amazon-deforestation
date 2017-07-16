@@ -7,10 +7,10 @@ import os
 import gc
 import numpy as np
 import pandas as pd
-import seaborn as sns
+#import seaborn as sns
 import tensorflow as tf
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
+#import matplotlib.pyplot as plt
+#import matplotlib.image as mpimg
 
 import data_helper
 from keras_helper import AmazonKerasClassifier
